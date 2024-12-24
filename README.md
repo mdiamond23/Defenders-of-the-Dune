@@ -4,7 +4,7 @@ Matthew Diamond's programming contributions to **Defenders of the Dune**, an **R
 Here is a link to the game!  
 [**Defenders of the Dune on Steam**](https://store.steampowered.com/app/3394870/Defenders_of_the_Dune/)  
 
-Here are some of **Matthew Diamond's contributions** that were integral to the project.  
+Here are some of **Matthew Diamond's contributions** that were integral to the project. The code was written in 2024.
 
 **`AnchorBuildingManager.cs`**: Implemented **healing mechanics** for friendly units within range and manages **range indicator visualization**. Handles periodic healing during the **Day Phase** and dynamically toggles indicators during building interactions. Includes **outpost lifecycle management** to ensure proper initialization and cleanup when buildings are destroyed.
 
